@@ -1,10 +1,10 @@
 # LucasdeAzevedo
 
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/76ce4d7f-da6a-401c-bf67-6c1a7f53b618" />  Hello, my name is Lucas de Azevedo
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/76ce4d7f-da6a-401c-bf67-6c1a7f53b618" />  Hello, my name is Lucas de Azevedo
 
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/9cdad36a-d641-492c-b28e-5daf69a738bf" />  Master's student in Internal Medicine 
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/9cdad36a-d641-492c-b28e-5daf69a738bf" />  Master's student in Internal Medicine 
 
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/0f6aeed3-7ede-4d50-8a83-615d68ebd04b" />  Interested on pulmonology research
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/0f6aeed3-7ede-4d50-8a83-615d68ebd04b" />  Interested on pulmonology research
 
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/9b329bbd-4f04-4804-b089-409960b203e3" />  Brasil
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/9b329bbd-4f04-4804-b089-409960b203e3" />  Brasil
 
