@@ -8,3 +8,11 @@
 
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/9b329bbd-4f04-4804-b089-409960b203e3" />  Brasil
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<a href="https://github.com/Lazevedob/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lazevedob" />
+</a>
+<a href="https://github.com/Lazevedobconvoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lazevedob&layout=compact&langs_count=8&card_width=320" />
+</a>
